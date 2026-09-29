@@ -1,3 +1,19 @@
+# @stackline/git-spawned-stream
+
+Independent maintenance fork of `git-spawned-stream@1.0.1`. Original API, module format, runtime dependency ranges, and supported Node.js engines are preserved.
+
+```sh
+npm install @stackline/git-spawned-stream
+# Preserve existing imports with an npm alias:
+npm install git-spawned-stream@npm:@stackline/git-spawned-stream@1.0.0
+```
+
+See [UPSTREAM.md](UPSTREAM.md) for the exact source and issue review, and [CHANGELOG.md](CHANGELOG.md) for focused maintenance changes. Development and release tooling runs on Node.js 24; that does not change the library runtime requirement.
+
+Maintained by [Stackline](https://alexandro.net/). [Issues](https://github.com/alexandroit/stackline-git-spawned-stream/issues) · [npm](https://www.npmjs.com/package/@stackline/git-spawned-stream).
+
+## Upstream documentation
+
 # git-spawned-stream
 
 Create a readable stream from a spawned git process.

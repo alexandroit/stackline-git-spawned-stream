@@ -1,0 +1,5 @@
+This is an independent maintenance fork of git-spawned-stream 1.0.1.
+Upstream source commit: 97f1d37151a253296f5b1595a0a9044ba4ae9383
+The upstream license and author notices are retained unchanged.
+Stackline changes are documented in CHANGELOG.md. No upstream endorsement is implied.
+Upstream declares MIT in package.json and README; this fork includes the standard MIT text with upstream author attribution.
