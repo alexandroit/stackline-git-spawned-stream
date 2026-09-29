@@ -1,0 +1,26 @@
+{
+  "repository": "alexandroit/stackline-git-spawned-stream",
+  "packages": [
+    {
+      "name": "@stackline/git-spawned-stream",
+      "path": "README.md",
+      "version": "1.0.1",
+      "baselineVersion": "1.0.0",
+      "keywords": [
+        "stackline",
+        "npm-package",
+        "git-spawned-stream",
+        "streams",
+        "spawned",
+        "git",
+        "stream",
+        "maintenance-fork"
+      ],
+      "homepage": "https://alexandro.net/docs/vanilla/git-spawned-stream/",
+      "baselineTarball": "https://registry.npmjs.org/@stackline/git-spawned-stream/-/git-spawned-stream-1.0.0.tgz",
+      "baselineIntegrity": "sha512-c+PtLniyyFhZuZRNUVLhf0gVMf3KFL/mxYZxoaSUIqRNOCVOJEKD7M+SGnSd4IRRg7wqkiRXXktcrGJ0ExBGSw==",
+      "expectedSha512": "343b6b7ed147f5a021bc927e36c4653686e6700070c773b126f0e14ee6aa451ad4187402d81d59fb4eb3f22cbdd6c4fd9ab064c570f9562b2fe871558a93e0d9",
+      "tag": "docs-stackline-git-spawned-stream-v1.0.1"
+    }
+  ]
+}
