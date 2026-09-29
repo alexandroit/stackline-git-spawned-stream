@@ -1,6 +1,6 @@
 {
   "name": "@stackline/git-spawned-stream",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a readable stream from a spawned git process.",
   "main": "index.js",
   "dependencies": {
@@ -21,10 +21,13 @@
     "url": "git+https://github.com/alexandroit/stackline-git-spawned-stream.git"
   },
   "keywords": [
+    "stackline",
+    "npm-package",
+    "git-spawned-stream",
+    "streams",
     "spawned",
     "git",
     "stream",
-    "stackline",
     "maintenance-fork"
   ],
   "author": "Alexandru Vladutu <alexandru.vladutu@gmail.com> (http://careers.stackoverflow.com/alessioalex)",
@@ -32,7 +35,7 @@
   "bugs": {
     "url": "https://github.com/alexandroit/stackline-git-spawned-stream/issues"
   },
-  "homepage": "https://github.com/alexandroit/stackline-git-spawned-stream#readme",
+  "homepage": "https://alexandro.net/docs/vanilla/git-spawned-stream/",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
